@@ -7,7 +7,8 @@ h1{
 }
 
 .mainphoto{
-	width: 70%;
+	width: auto;
+	height: 300px;
 }
 .btnCheck{
 	width: 40%;
